@@ -1,0 +1,4 @@
+# Substance files
+.autosave/
+*_autosave_*.spp
+*.spp.painter_lock
