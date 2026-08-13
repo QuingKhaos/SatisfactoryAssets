@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "QuingKhaos' Satisfactory Assets",
+	"Description": "A growing collection of decolorized Satisfactory assets.",
+	"Category": "Modding",
+	"CreatedBy": "QuingKhaos",
+	"CreatedByURL": "https://github.com/QuingKhaos",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/B3qJBE3M9W",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
