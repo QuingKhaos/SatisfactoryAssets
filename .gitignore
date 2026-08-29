@@ -3,6 +3,7 @@
 /Assets/**/*.fbx
 /Assets/**/*.glb
 /Assets/**/*.png
+!/Assets/Library/**/*
 
 # Blender files
 *.blend1
