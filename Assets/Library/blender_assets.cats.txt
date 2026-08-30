@@ -1,0 +1,13 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+2327e10d-b14d-4651-80c7-3ad4e7d28fca:Shading:Shading
+5957c35e-b111-49a3-94aa-c5c4c582fc1d:Shading/Shader:Shading-Shader
+f10f078a-6562-4e0c-9af4-fc4485d6bc62:Shading/Texture:Shading-Texture
+5f5e5272-68f7-41c0-bc57-b267f383ccec:Shading/Utilities:Shading-Utilities
+c9a5942b-d087-4bc9-bd17-117a288e6fbc:Shading/Utilities/Math:Shading-Utilities-Math
